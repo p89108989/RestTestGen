@@ -1,2 +1,2 @@
-apiUnderTest: bookstore
+apiUnderTest: apis-guru
 strategyClassName: NominalAndErrorStrategy
